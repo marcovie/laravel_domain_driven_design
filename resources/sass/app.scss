@@ -1,0 +1,16 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+@import 'ui/ui_variables';
+
+//Ui Elements @mixin
+@import 'mixins/ui_elements';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.div-striped {
+    background-color: $lightGrey;
+}
