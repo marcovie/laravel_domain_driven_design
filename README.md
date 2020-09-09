@@ -1,6 +1,6 @@
-![Project image](https://photos.app.goo.gl/H6cvfxGiaJRNcjMXA)
+![Project image](https://lh3.googleusercontent.com/pw/ACtC-3e9XlFRqVmgYAkVSbSNUKFpbrd0rHX8-Au2Eeh3aZVrv1Ds4yt1HiyO8TMRXlyM3g7sNQl7CbvdU5YjnqKnNbDK44AI7oN_Jkqy6nYu6wbDpheNP8mU8IfxegWz0bUsLV-MVEGOU-YPkVFsqlUF-NVY=w1049-h640-no?authuser=0)
 
-## Laravel (v7.24.0)
+## Laravel (v7.27.0)
 
 <p><b>Stack</b></p>
 
